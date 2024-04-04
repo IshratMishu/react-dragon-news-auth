@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "image": "https://i.ibb.co/cwJxQmN/1.png",
+        "title": "Scientists Discover New Species of Orchid in Amazon Rainforest",
+        "category": "Sports",
+        "date": "Jan 4, 2024"
+      },
+      {
+        "id": 2,
+        "image": "https://i.ibb.co/xJVXwjN/2.png",
+        "title": "World Leaders Gather for Climate Change Summit in Paris",
+        "category": "Entertainment",
+        "date": "Feb 15, 2024"
+      },  
+      {
+        "id": 3,
+        "image": "https://i.ibb.co/MMNxGTy/3.png",
+        "title": "Tech Giants Unveil Breakthrough in Artificial Intelligence",
+        "category": "Arts",
+        "date": "Mar 28, 2024"
+      }      
+]
